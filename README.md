@@ -35,6 +35,13 @@ Comprender los fundamentos de la **sincronización de relojes en sistemas distri
 | `cristian.cpp` | Implementa el método **Cristian**, con un servidor de tiempo y clientes que estiman su hora real. |
 
 ---
+## Tarea de clase 24-09-2025
+
+- **Realizar programas para sincronizar Computadoras Utilizando el Algoritmo de Berkeley.**
+- **Comsiderar solo 3 computadoras.**
+- Puede realizarlo utilizando el sistema de comunicacion implementado anteriormete. 
+- Subir el codigo si cuenta Github o gitlab y compartir el proyecto. 
+---
 
 👥 Team Members  
 - Santiago Alloud  
